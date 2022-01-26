@@ -7,6 +7,7 @@ index = {"UtcTime": "00_core.ipynb",
          "PosixTime": "00_core.ipynb",
          "MILLIS_IN_A_SECOND": "00_core.ipynb",
          "MICROS_IN_A_MILLI": "00_core.ipynb",
+         "seconds_to_millis": "00_core.ipynb",
          "timestamp": "00_core.ipynb",
          "to_utc": "00_core.ipynb",
          "to_local": "00_core.ipynb"}
